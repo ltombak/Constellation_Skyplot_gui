@@ -1,0 +1,5 @@
+matplotlib>=3.8.0
+requests>=2.31.0
+skyfield>=1.49
+Pillow>=10.0.0
+numpy>=1.26.0
