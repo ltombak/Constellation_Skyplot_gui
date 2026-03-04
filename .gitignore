@@ -22,6 +22,3 @@ pip-wheel-metadata/
 # Test / coverage
 .pytest_cache/
 .coverage
-
-# Pillow temp
-*.png
